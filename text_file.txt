@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 Teammate note: shared greeting helper landed on the shared repo.
 Teammate note: shared greeting helper landed on the shared repo.
+=======
+>>>>>>> feature-logger
 This is a text file for our project.
 It collects short notes about how the project is organised.
 New notes are appended at the bottom as the project grows.
 Keep one note per line.
 Everything above this line is part of the original project notes.
 End of original notes.
+<<<<<<< HEAD
 Local update: work in progress before the pull.
 Update on main after branching
+=======
+>>>>>>> feature-logger
