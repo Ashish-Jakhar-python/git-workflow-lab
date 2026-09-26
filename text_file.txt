@@ -1,4 +1,5 @@
 Teammate note: shared greeting helper landed on the shared repo.
+Teammate note: shared greeting helper landed on the shared repo.
 This is a text file for our project.
 It collects short notes about how the project is organised.
 New notes are appended at the bottom as the project grows.
